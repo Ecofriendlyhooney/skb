@@ -1,13 +1,14 @@
-[x] 20190601 html js css file segregation
-[x] 20190611 update map notice picture
-[x] 20190611 update schedule open until 06/11
-[x] 20190611 add lazy loading tag
-[x] 20190611 update west middle school google map url
-[x] 20190615 no need to update 6/16 Dodge ball recreation
-[x] 20190616 update 2019 June full schedule (waiting for 6/16 Title) (6/16 schedule no add)
-[x] 20190616 update ikebukuro toshima elemantary school map update
+# SKB TODO
+ - [x] 20190601 html js css file segregation
+ - [x] 20190611 update map notice picture
+ - [x] 20190611 update schedule open until 06/11
+ - [x] 20190611 add lazy loading tag
+ - [x] 20190611 update west middle school google map url
+ - [x] 20190615 no need to update 6/16 Dodge ball recreation
+ - [x] 20190616 update 2019 June full schedule (waiting for 6/16 Title) (6/16 schedule no add)
+ - [x] 20190616 update ikebukuro toshima elemantary school map update
 
-[ ] 20190609 need to divide separate file as schedule/we are/map detail (depends on Lazy loading from Chrome 75) waiting for user update by chrome 75
+- [ ] 20190609 need to divide separate file as schedule/we are/map detail (depends on Lazy loading from Chrome 75) waiting for user update by chrome 75
 
 
 //TODO User classification with SRS (Admin, user, etc)
